@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dianping/!svn/ver/57207/dianping/chat/trunk/chat-server/src/main/resources/config/spring
+END
+appcontext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dianping/!svn/ver/56824/dianping/chat/trunk/chat-server/src/main/resources/config/spring/appcontext-service.xml
+END
+appcontext-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dianping/!svn/ver/57207/dianping/chat/trunk/chat-server/src/main/resources/config/spring/appcontext-cache.xml
+END
+appcontext-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dianping/!svn/ver/57207/dianping/chat/trunk/chat-server/src/main/resources/config/spring/appcontext-resource.xml
+END
